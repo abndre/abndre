@@ -42,6 +42,16 @@ Check my linkedin
 
 And others like, AWS: Athena, MariaDB, Redshift
 
+# Projects
+
+Here I put some interesting projects and code dev
+
+## My data resource
+
+[In this repository I put all news and development about my worker with Data](https://github.com/abndre/data)
+
+[In this Repository is my old code from my master degree, nowadays is necessary some updates.](https://github.com/abndre/XPA)
+
 
 # Blog Life ✍️
 
@@ -57,18 +67,13 @@ Check my tiktok with tips of development:
 [![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://vm.tiktok.com/ZMLhpCTcW/)
 
 
-
 <!--
-**abndre/abndre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+badges
+https://dev.to/envoy_/150-badges-for-github-pnk
 
-Here are some ideas to get you started:
+emojis
+https://emojipedia.org/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+status
+https://github.com/anuraghazra/github-readme-stats#language-card-exclusive-options
 -->
