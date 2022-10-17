@@ -40,7 +40,7 @@ Check my linkedin
     <img align="center" alt="mssql"  src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </div><br/>
 
-And others like, AWS: Athena, MariaDB, Redshift
+And others like: AWS-Athena, AWS-RDS, AWS-Redshift, GCP-BigQuery
 
 # Projects
 
@@ -52,6 +52,11 @@ Here I put some interesting projects and code dev
 
 [In this Repository is my old code from my master degree, nowadays is necessary some updates.](https://github.com/abndre/XPA)
 
+## React Projects
+
+[Pokedex](https://github.com/abndre/react-pokedex)
+
+URL: https://abndre.github.io/react-pokedex/
 
 # Blog Life ✍️
 
