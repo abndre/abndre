@@ -9,6 +9,12 @@ Check my linkedin
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrezio//)
 
+Portifolio de Cursos
+
+https://www.datacamp.com/portfolio/andredebarrossilva
+
+https://cursos.alura.com.br/user/andre-silva85/fullCertificate/734c7c44a9e6f96b34b602a6a0d3e3c4
+
 ## Data Tools
 
 
