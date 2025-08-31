@@ -31,7 +31,6 @@ https://www.credly.com/badges/b3e228b6-984c-42bf-a62f-c0eda4359cd6/linked_in_pro
   
 </div><br/>
 
-
 ## Program Language
 
 <div style="display: inline_block">
@@ -77,6 +76,10 @@ Here I put some interesting projects and code dev
 [In this Repository is my old code from my master degree, nowadays is necessary some updates.](https://github.com/abndre/XPA)
 
 [In this repository I created a pipeline of Machine Learning Engineering.](https://github.com/abndre/docker-multi-stage-ml)
+
+## IA Projects
+
+[CREW-AI + FAST-API.](https://github.com/abndre/crewai-dev)
 
 ## React Projects
 
